@@ -1,0 +1,4 @@
+I Can't upload the data in this repo, 
+github accepts files with 100MB Maximum
+the size of the training and testing data is 700MB 
+so here is link of the data: https://www.kaggle.com/c/tabular-playground-series-dec-2021
